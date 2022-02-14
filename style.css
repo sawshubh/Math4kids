@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Dosis', sans-serif; 
+}
+body{
+    background: url(v978-background-02.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.home{
+    width: 80%;
+    margin:auto;
+}
+p.definition{
+    font-size: larger;
+}
+
+p.important{
+    font-size: larger;
+    margin: 00px 350px 75px 00px; /*top, Right, Bottom, Left*/
+}
+.tenor-gif-embed{
+    /*height: 56.25%;*/
+    margin-left: 40%
+}
+
+.basic-operation{
+    font-size: larger;
+}
+
+p.addition{
+    font-size: larger;
+}
+p.subtraction{
+    font-size: larger;
+}
+p.multiplication{
+    font-size: larger;
+}
+p.division{
+    font-size: larger;
+}
+p.prof{
+    font-size: larger;
+    text-align: center;
+}
